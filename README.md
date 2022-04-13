@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repo](https://your-solution-url.com)
-- Live Site URL: [Coming Soon](#)
+- Live Site URL: [Live View](https://fylocloudservice.netlify.app/)
 
 ## My process
 
@@ -45,17 +45,16 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
 
 
 ### Continued development
 
-Will re-develo-p this project in ReactJS.
+Will re-develop this project in ReactJS.
 
 
 ### Useful resources
 
-- [Bootstrap](https://www.example.com) - This helped me save time on creating a responsive centred section/ div of the website by using the container attribute to save time rather than using margins to dictate the display of a given section on the page.
+- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - This helped me save time on creating a responsive centred section/ div of the website by using the container attribute to save time rather than using margins to dictate the display of a given section on the page.
 
 
 ## Author
