@@ -55,7 +55,7 @@ Will re-develo-p this project in ReactJS.
 
 ### Useful resources
 
-- [Bootstrap](https://www.example.com) - This helped me save time on creating a responsive centred section/ div of the website by using the container attribute to save time rather than using margins to dictate the display of a given section on the page.
+- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - This helped me save time on creating a responsive centred section/ div of the website by using the container attribute to save time rather than using margins to dictate the display of a given section on the page.
 
 
 ## Author
