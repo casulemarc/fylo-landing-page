@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub repo](https://your-solution-url.com)
+- Solution URL: [GitHub repo](https://github.com/casulemarc/fylo-landing-page)
 - Live Site URL: [Live View](https://fylocloudservice.netlify.app/)
 
 ## My process
